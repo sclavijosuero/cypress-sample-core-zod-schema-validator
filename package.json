@@ -1,0 +1,32 @@
+{
+  "name": "cypress-sample-core-zod-schema-validator",
+  "version": "1.0.0",
+  "description": "Sample project to use core-zod-schema-validator with Cypress",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sclavijosuero/cypress-sample-zod-validator.git"
+  },
+  "keywords": [
+    "zod",
+    "schema",
+    "validator",
+    "json",
+    "sample",
+    "cypress"
+  ],
+  "author": "Sebastian Clavijo Suero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sclavijosuero/cypress-sample-zod-validator/issues"
+  },
+  "homepage": "https://github.com/sclavijosuero/cypress-sample-zod-validator#readme",
+  "devDependencies": {
+    "core-zod-schema-validator": "^1.0.0",
+    "cypress": "^14.3.3"
+  }
+}

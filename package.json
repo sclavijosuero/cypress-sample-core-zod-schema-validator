@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/sclavijosuero/cypress-sample-zod-validator#readme",
   "devDependencies": {
-    "core-zod-schema-validator": "^1.0.0",
+    "core-zod-schema-validator": "^1.0.1",
     "cypress": "^14.3.3"
   }
 }
